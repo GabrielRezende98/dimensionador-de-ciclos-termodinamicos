@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://cubmn1xavyqpd"
+
+[deps]
+
+files=["res://tabela_a17.H.translation", "res://tabela_a17.P.translation", "res://tabela_a17.U.translation", "res://tabela_a17.V.translation", "res://tabela_a17.S.translation"]
+
+source_file="res://tabela_a17.csv"
+dest_files=["res://tabela_a17.H.translation", "res://tabela_a17.P.translation", "res://tabela_a17.U.translation", "res://tabela_a17.V.translation", "res://tabela_a17.S.translation"]
+
+[params]
+
+compress=true
+delimiter=0
